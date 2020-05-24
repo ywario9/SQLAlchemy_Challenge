@@ -1,9 +1,4 @@
-# SQLAlchemy_Challenge
-
-I used Python and SQLAlchemy to do a climate analysis and data exploration of the climate database. All of the analysis are completed using SQLAlchemy ORM queries, Pandas, and Matplotlib.
-
-
-# Reflect Tables into SQLAlchemy ORM
+# SQL ALCHEMY
 The analysis was done inside a jupyter notebook file. I used SQLAlchemy create_engine to connect to the sqlite database and then used SQLAlchemy automap_base() to reflect the tables into classes. References to those classes are saved as variables and are called Station and Measurement.
 
 # Reflect Tables into SQLAlchemy ORM
